@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ramadhan</string>
+
+    <string name="home">Home</string>
+    <string name="histori">Histori</string>
+    <string name="favorit">Favorit</string>
+    <string name="lainnya">Lainnya</string>
+</resources>
